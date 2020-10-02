@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Shields Trevino",
+    "gender": "male",
+    "age": 26,
+    "email": "shieldstrevino@nurplex.com",
+    "phone": "+1 (960) 519-2496",
+    "picture": "https://randomuser.me/api/portraits/men/14.jpg",
+    "company": "PLASMOS",
+    "salary": 8447.39
+  },
+  {
+    "name": "Socorro Perkins",
+    "gender": "female",
+    "age": 26,
+    "email": "socorroperkins@plasmos.com",
+    "phone": "+1 (936) 565-2511",
+    "picture": "https://randomuser.me/api/portraits/men/37.jpg",
+    "company": "CAXT",
+    "salary": 8142.84
+  },
+  {
+    "name": "Terry Lynn",
+    "gender": "male",
+    "age": 25,
+    "email": "terrylynn@caxt.com",
+    "phone": "+1 (804) 565-2002",
+    "picture": "https://randomuser.me/api/portraits/men/74.jpg",
+    "company": "FUTURIS",
+    "salary": 8874.24
+  },
+  {
+    "name": "Reeves Greene",
+    "gender": "male",
+    "age": 30,
+    "email": "reevesgreene@futuris.com",
+    "phone": "+1 (805) 473-3630",
+    "picture": "https://randomuser.me/api/portraits/men/93.jpg",
+    "company": "DAIDO",
+    "salary": 8532.69
+  },
+  {
+    "name": "Powell Thompson",
+    "gender": "male",
+    "age": 39,
+    "email": "powellthompson@daido.com",
+    "phone": "+1 (853) 451-3575",
+    "picture": "https://randomuser.me/api/portraits/men/33.jpg",
+    "company": "ISOPLEX",
+    "salary": 6521.52
+  },
+  {
+    "name": "Jody Moore",
+    "gender": "female",
+    "age": 24,
+    "email": "jodymoore@isoplex.com",
+    "phone": "+1 (911) 502-3915",
+    "picture": "https://randomuser.me/api/portraits/men/88.jpg",
+    "company": "ZILLACTIC",
+    "salary": 6730.06
+  },
+  {
+    "name": "Elaine Bryan",
+    "gender": "female",
+    "age": 38,
+    "email": "elainebryan@zillactic.com",
+    "phone": "+1 (946) 537-2264",
+    "picture": "https://randomuser.me/api/portraits/men/76.jpg",
+    "company": "GENMY",
+    "salary": 8862.19
+  },
+  {
+    "name": "Karla Summers",
+    "gender": "female",
+    "age": 32,
+    "email": "karlasummers@genmy.com",
+    "phone": "+1 (873) 512-2139",
+    "picture": "https://randomuser.me/api/portraits/men/36.jpg",
+    "company": "ACCUFARM",
+    "salary": 8875.34
+  },
+  {
+    "name": "Delia Dunlap",
+    "gender": "female",
+    "age": 40,
+    "email": "deliadunlap@accufarm.com",
+    "phone": "+1 (837) 420-2531",
+    "picture": "https://randomuser.me/api/portraits/men/62.jpg",
+    "company": "MAGMINA",
+    "salary": 8936.80
+  },
+  {
+    "name": "Joyner Jefferson",
+    "gender": "male",
+    "age": 36,
+    "email": "joynerjefferson@magmina.com",
+    "phone": "+1 (959) 486-3427",
+    "picture": "https://randomuser.me/api/portraits/men/23.jpg",
+    "company": "INTERFIND",
+    "salary": 8257.32
+  },
+  {
+    "name": "Wilson Conley",
+    "gender": "male",
+    "age": 23,
+    "email": "wilsonconley@interfind.com",
+    "phone": "+1 (854) 507-3827",
+    "picture": "https://randomuser.me/api/portraits/men/9.jpg",
+    "company": "INTRADISK",
+    "salary": 5999.24
+  },
+  {
+    "name": "Lolita Holcomb",
+    "gender": "female",
+    "age": 28,
+    "email": "lolitaholcomb@intradisk.com",
+    "phone": "+1 (819) 587-2197",
+    "picture": "https://randomuser.me/api/portraits/men/40.jpg",
+    "company": "NURPLEX",
+    "salary": 5612.42
+  },
+  {
+    "name": "Christian Diaz",
+    "gender": "male",
+    "age": 26,
+    "email": "christiandiaz@nurplex.com",
+    "phone": "+1 (975) 508-3906",
+    "picture": "https://randomuser.me/api/portraits/men/7.jpg",
+    "company": "ENDICIL",
+    "salary": 5755.11
+  },
+  {
+    "name": "Fanny Murray",
+    "gender": "female",
+    "age": 29,
+    "email": "fannymurray@endicil.com",
+    "phone": "+1 (973) 431-2678",
+    "picture": "https://randomuser.me/api/portraits/men/64.jpg",
+    "company": "GENEKOM",
+    "salary": 7415.93
+  },
+  {
+    "name": "Antonia Bennett",
+    "gender": "female",
+    "age": 33,
+    "email": "antoniabennett@genekom.com",
+    "phone": "+1 (835) 544-3542",
+    "picture": "https://randomuser.me/api/portraits/men/48.jpg",
+    "company": "JUNIPOOR",
+    "salary": 7789.77
+  }
+]

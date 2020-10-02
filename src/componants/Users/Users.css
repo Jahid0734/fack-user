@@ -1,0 +1,35 @@
+
+.user-info{
+   float: left;
+}
+.profile{
+    background: #1c1244;
+    width: 350px;
+   
+    margin: 15px;
+    border-radius: 10px;
+}
+.user-content{
+    padding: 20px
+}
+.profile img {
+    margin: 10px;
+    width: 150px;
+    height: 150px;
+    border: 7px solid rgb(209, 15, 226);
+    border-radius: 50%;
+    padding: 2px;
+}
+.user-details{
+    line-height: 20px;
+    font-size: 20px;
+}
+.add-button{
+    background: orange;
+    padding: 8px 30px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    cursor: pointer;
+}
